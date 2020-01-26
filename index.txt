@@ -4,3 +4,4 @@ git config not add
 
 git fetch
 non fast-forward
+git merge
