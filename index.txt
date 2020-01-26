@@ -3,3 +3,4 @@ from google
 git config not add
 
 git fetch
+git merge
