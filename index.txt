@@ -5,3 +5,5 @@ git config not add
 git fetch
 non fast-forward
 git merge
+
+i dont know index.txt had been moved.
